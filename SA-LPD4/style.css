@@ -1,0 +1,17 @@
+#this{
+    text-align: center;
+    color: darkorchid;
+}
+#title{
+    color: blueviolet;
+}
+#pregunta{
+    color: crimson;
+}
+
+body{
+    background-color: black;
+}
+#imprimir{
+    color: aliceblue;
+}
